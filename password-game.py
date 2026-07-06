@@ -25,6 +25,7 @@ if person == ("Thomas"):
                     else:
                         print ("You might need to practice a bit! Try again!")
                         
+#here is the start of the noah section                   
 
 if person == ("Noah"):
     print ("Here is Noah's profile: Date of birth: 9/3/1995, Favourite colour: Orange, Pet: Tortoise named BillyBob, Family: Child (Ellen, 31/12/2019), Child (Austin, 11/6/2022)")
@@ -46,6 +47,59 @@ if person == ("Noah"):
                 else:
                     Guess5 = input ("What is your final guess?")
                     if Guess5 == ("B1llyB0b"):
+                        print ("You have guessed correctly.")
+                    else:
+                        print ("You might need to practice a bit! Try again!")
+
+
+#here is the start of the Maria section
+
+if person == ("Maria"):
+    print ("Here is Maria's profile: Date of birth: 4/6/2008, Favourite colour: Purple, Pet: Rat named Goldie, Family: Roomate (Mangolia, 15/12/2007)")
+    Guess = input ("What is your password guess")
+    if Guess == ("M&M"):
+        print ("You guessed correctly!")
+    else:
+        Guess2 = input ("What is your second guess?")
+        if Guess2 == ("M&M"):
+            print ("You guessed correctly!")
+        else:
+            Guess3 = input ("What is your thrird guess?")
+            if Guess3 == ("M&M"):
+                print ("You have guessed correctly")
+            else:
+                Guess4 = input ("What is your fourth guess?")
+                if Guess4 == ("M&M"):
+                    print ("You have guessed correctly.")
+                else:
+                    Guess5 = input ("What is your final guess?")
+                    if Guess5 == ("M&M"):
+                        print ("You have guessed correctly.")
+                    else:
+                        print ("You might need to practice a bit! Try again!")
+
+#here is the start of the Elijah section
+
+if person == ("Elijah"):
+    print ("Here is Elijah's profile: Date of birth: 23/8/1987, Favourite colour: Maroon, Pet: none, Family: Wife (Alexa, 5/7/1987), Child (Isaac, 22/2/2012), Child (Evan, 1/1/2014")
+    Guess = input ("What is your password guess")
+    if Guess == ("Mar00nEl1jah!"):
+        print ("You guessed correctly!")
+    else:
+        Guess2 = input ("What is your second guess?")
+        if Guess2 == ("Mar00nEl1jah!"):
+            print ("You guessed correctly!")
+        else:
+            Guess3 = input ("What is your thrird guess?")
+            if Guess3 == ("Mar00nEl1jah!"):
+                print ("You have guessed correctly")
+            else:
+                Guess4 = input ("What is your fourth guess?")
+                if Guess4 == ("Mar00nEl1jah!"):
+                    print ("You have guessed correctly.")
+                else:
+                    Guess5 = input ("What is your final guess?")
+                    if Guess5 == ("Mar00nEl1jah!"):
                         print ("You have guessed correctly.")
                     else:
                         print ("You might need to practice a bit! Try again!")
