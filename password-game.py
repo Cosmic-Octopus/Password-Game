@@ -24,3 +24,28 @@ if person == ("Thomas"):
                         print ("You have guessed correctly.")
                     else:
                         print ("You might need to practice a bit! Try again!")
+                        
+
+if person == ("Noah"):
+    print ("Here is Noah's profile: Date of birth: 9/3/1995, Favourite colour: Orange, Pet: Tortoise named BillyBob, Family: Child (Ellen, 31/12/2019), Child (Austin, 11/6/2022)")
+    Guess = input ("What is your password guess")
+    if Guess == ("B1llyB0b"):
+        print ("You guessed correctly!")
+    else:
+        Guess2 = input ("What is your second guess?")
+        if Guess2 == ("B1llyB0b"):
+            print ("You guessed correctly!")
+        else:
+            Guess3 = input ("What is your thrird guess?")
+            if Guess3 == ("B1llyB0b"):
+                print ("You have guessed correctly")
+            else:
+                Guess4 = input ("What is your fourth guess?")
+                if Guess4 == ("B1llyB0b"):
+                    print ("You have guessed correctly.")
+                else:
+                    Guess5 = input ("What is your final guess?")
+                    if Guess5 == ("B1llyB0b"):
+                        print ("You have guessed correctly.")
+                    else:
+                        print ("You might need to practice a bit! Try again!")
