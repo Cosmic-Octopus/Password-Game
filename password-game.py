@@ -11,7 +11,7 @@ if person == ("Thomas"):
         if Guess2 == ("Frodo"):
             print ("You guessed correctly!")
         else:
-            Guess3 = input ("What is your thrird guess?")
+            Guess3 = input ("What is your thrird guess? Hint: Think about the pet")
             if Guess3 == ("Frodo"):
                 print ("You have guessed correctly")
             else:
@@ -37,7 +37,7 @@ if person == ("Noah"):
         if Guess2 == ("B1llyB0b"):
             print ("You guessed correctly!")
         else:
-            Guess3 = input ("What is your thrird guess?")
+            Guess3 = input ("What is your thrird guess? Hint: Think about the pet")
             if Guess3 == ("B1llyB0b"):
                 print ("You have guessed correctly")
             else:
@@ -45,7 +45,7 @@ if person == ("Noah"):
                 if Guess4 == ("B1llyB0b"):
                     print ("You have guessed correctly.")
                 else:
-                    Guess5 = input ("What is your final guess?")
+                    Guess5 = input ("What is your final guess? Hint: Add some numbers")
                     if Guess5 == ("B1llyB0b"):
                         print ("You have guessed correctly.")
                     else:
@@ -64,7 +64,7 @@ if person == ("Maria"):
         if Guess2 == ("M&M"):
             print ("You guessed correctly!")
         else:
-            Guess3 = input ("What is your thrird guess?")
+            Guess3 = input ("What is your thrird guess? Hint: Think about Mangolia")
             if Guess3 == ("M&M"):
                 print ("You have guessed correctly")
             else:
@@ -72,7 +72,7 @@ if person == ("Maria"):
                 if Guess4 == ("M&M"):
                     print ("You have guessed correctly.")
                 else:
-                    Guess5 = input ("What is your final guess?")
+                    Guess5 = input ("What is your final guess? Hint: Think about Maria & Mangolia")
                     if Guess5 == ("M&M"):
                         print ("You have guessed correctly.")
                     else:
@@ -90,15 +90,15 @@ if person == ("Elijah"):
         if Guess2 == ("Mar00nEl1jah!"):
             print ("You guessed correctly!")
         else:
-            Guess3 = input ("What is your thrird guess?")
+            Guess3 = input ("What is your thrird guess? Hint: Think about Elijah's favourite colour")
             if Guess3 == ("Mar00nEl1jah!"):
                 print ("You have guessed correctly")
             else:
-                Guess4 = input ("What is your fourth guess?")
+                Guess4 = input ("What is your fourth guess? Also think about his name 'Elijah'")
                 if Guess4 == ("Mar00nEl1jah!"):
                     print ("You have guessed correctly.")
                 else:
-                    Guess5 = input ("What is your final guess?")
+                    Guess5 = input ("What is your final guess? Hint: Add some numbers")
                     if Guess5 == ("Mar00nEl1jah!"):
                         print ("You have guessed correctly.")
                     else:
@@ -117,15 +117,15 @@ if person == ("Sienna"):
         if Guess2 == ("SiennaBoots!"):
             print ("You guessed correctly!")
         else:
-            Guess3 = input ("What is your thrird guess?")
+            Guess3 = input ("What is your thrird guess? Hint: Think about the pet")
             if Guess3 == ("SiennaBoots!"):
                 print ("You have guessed correctly")
             else:
-                Guess4 = input ("What is your fourth guess?")
+                Guess4 = input ("What is your fourth guess? Hint: Think about Sienna and Boots")
                 if Guess4 == ("SiennaBoots!"):
                     print ("You have guessed correctly.")
                 else:
-                    Guess5 = input ("What is your final guess?")
+                    Guess5 = input ("What is your final guess? Hint: Maybe shorten?")
                     if Guess5 == ("SiennaBoots!"):
                         print ("You have guessed correctly.")
                     else:
