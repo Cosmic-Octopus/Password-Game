@@ -103,3 +103,30 @@ if person == ("Elijah"):
                         print ("You have guessed correctly.")
                     else:
                         print ("You might need to practice a bit! Try again!")
+
+
+#here is the start of the Sienna section
+
+if person == ("Sienna"):
+    print ("Here is Sienna's profile: Date of birth: 29/08/2004, Favourite colour: Red, Pet: Cat named Boots, Family: None in household")
+    Guess = input ("What is your password guess")
+    if Guess == ("SiennaBoots!"):
+        print ("You guessed correctly!")
+    else:
+        Guess2 = input ("What is your second guess?")
+        if Guess2 == ("SiennaBoots!"):
+            print ("You guessed correctly!")
+        else:
+            Guess3 = input ("What is your thrird guess?")
+            if Guess3 == ("SiennaBoots!"):
+                print ("You have guessed correctly")
+            else:
+                Guess4 = input ("What is your fourth guess?")
+                if Guess4 == ("SiennaBoots!"):
+                    print ("You have guessed correctly.")
+                else:
+                    Guess5 = input ("What is your final guess?")
+                    if Guess5 == ("SiennaBoots!"):
+                        print ("You have guessed correctly.")
+                    else:
+                        print ("You might need to practice a bit! Try again!")
