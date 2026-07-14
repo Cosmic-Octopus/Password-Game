@@ -81,7 +81,7 @@ if person == ("Maria"):
 #here is the start of the Elijah section
 
 if person == ("Elijah"):
-    print ("Here is Elijah's profile: Date of birth: 23/8/1987, Favourite colour: Maroon, Pet: none, Family: Wife (Alexa, 5/7/1987), Child (Isaac, 22/2/2012), Child (Evan, 1/1/2014")
+    print ("Here is Elijah's profile: Date of birth: 23/8/1987, Favourite colour: Maroon, Pet: none, Family: Wife (Alexa, 5/7/1987), Child (Tonato, 22/2/2012), Child (Olivia, 1/1/2014")
     Guess = input ("What is your password guess")
     if Guess == ("Mar00nEl1jah!"):
         print ("You guessed correctly!")
